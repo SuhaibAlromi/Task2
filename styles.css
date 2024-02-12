@@ -1,0 +1,32 @@
+html {
+    background: #f0f0f0;
+}
+
+
+h1{
+    color: #000080;
+    font-size: 24px;
+}
+
+
+#about {
+    background: #9292ed;
+}
+
+#projects {
+    background: #ead16a;
+}
+
+#contact {
+    background: #fca772;
+}
+
+.project {
+    border: solid 2px; padding: 10px; margin: 5px;
+}
+
+
+a:hover{
+    color: green;
+}
+
